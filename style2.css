@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+}
+img {
+    width: 100%;
+}
+
+.img {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.image {
+    width: 32%;
+    display: flex;
+    flex-wrap: wrap;
+    border: 5px;
+    padding: 5px;
+    justify-content: center;
+}
+.b-text {
+    text-align: left;
+}
+
+.outstanding{
+    font-size: 20px;
+    color: rgb(182, 74, 3);
+    font-weight: bold;
+}
+.name {
+    font-size: 40px;
+    font-weight: bold;
+}
+.def {
+    font-size: 20px;
+    font-weight:lighter
+}
+.pr {
+    font-size: 30px;
+    font-weight: bold;
+}
